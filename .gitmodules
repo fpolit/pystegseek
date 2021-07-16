@@ -1,0 +1,3 @@
+[submodule "pystegseek/stegseek"]
+	path = pystegseek/stegseek
+	url = https://github.com/fpolit/stegseek
